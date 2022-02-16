@@ -2,7 +2,7 @@
 - 👀 I’m interested in web/mobile development
 - 🌱 I’m currently learning html, css, php and javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... lomouhamadmourtall@gmail.com
+- 📫 How to reach me ... lomouhamadmourtalla@gmail.com
 
 <!---
 mourtallalo/mourtallalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
